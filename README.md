@@ -70,8 +70,8 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-![robo](start.jpeg)
-![robo](end.jpeg)
+![robo](./img/start.jpg)
+![robo](./img/end.jpg)
 
 ## MobileRobot Movement Video:
 
